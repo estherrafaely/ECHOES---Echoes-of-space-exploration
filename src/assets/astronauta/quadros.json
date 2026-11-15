@@ -1,0 +1,242 @@
+[
+  {
+    "name": "baixo-0",
+    "row": 1,
+    "column": 1,
+    "x": 0,
+    "y": 0,
+    "w": 314,
+    "h": 314,
+    "visible_bounds_in_cell": [
+      93,
+      64,
+      221,
+      256
+    ]
+  },
+  {
+    "name": "baixo-1",
+    "row": 1,
+    "column": 2,
+    "x": 314,
+    "y": 0,
+    "w": 313,
+    "h": 314,
+    "visible_bounds_in_cell": [
+      88,
+      64,
+      221,
+      261
+    ]
+  },
+  {
+    "name": "baixo-2",
+    "row": 1,
+    "column": 3,
+    "x": 627,
+    "y": 0,
+    "w": 313,
+    "h": 314,
+    "visible_bounds_in_cell": [
+      93,
+      64,
+      221,
+      256
+    ]
+  },
+  {
+    "name": "baixo-3",
+    "row": 1,
+    "column": 4,
+    "x": 940,
+    "y": 0,
+    "w": 314,
+    "h": 314,
+    "visible_bounds_in_cell": [
+      93,
+      64,
+      223,
+      262
+    ]
+  },
+  {
+    "name": "esquerda-0",
+    "row": 2,
+    "column": 1,
+    "x": 0,
+    "y": 314,
+    "w": 314,
+    "h": 313,
+    "visible_bounds_in_cell": [
+      95,
+      62,
+      222,
+      256
+    ]
+  },
+  {
+    "name": "esquerda-1",
+    "row": 2,
+    "column": 2,
+    "x": 314,
+    "y": 314,
+    "w": 313,
+    "h": 313,
+    "visible_bounds_in_cell": [
+      89,
+      62,
+      222,
+      258
+    ]
+  },
+  {
+    "name": "esquerda-2",
+    "row": 2,
+    "column": 3,
+    "x": 627,
+    "y": 314,
+    "w": 313,
+    "h": 313,
+    "visible_bounds_in_cell": [
+      95,
+      62,
+      222,
+      258
+    ]
+  },
+  {
+    "name": "esquerda-3",
+    "row": 2,
+    "column": 4,
+    "x": 940,
+    "y": 314,
+    "w": 314,
+    "h": 313,
+    "visible_bounds_in_cell": [
+      95,
+      62,
+      223,
+      258
+    ]
+  },
+  {
+    "name": "direita-0",
+    "row": 3,
+    "column": 1,
+    "x": 0,
+    "y": 627,
+    "w": 314,
+    "h": 313,
+    "visible_bounds_in_cell": [
+      91,
+      62,
+      221,
+      257
+    ]
+  },
+  {
+    "name": "direita-1",
+    "row": 3,
+    "column": 2,
+    "x": 314,
+    "y": 627,
+    "w": 313,
+    "h": 313,
+    "visible_bounds_in_cell": [
+      89,
+      62,
+      220,
+      259
+    ]
+  },
+  {
+    "name": "direita-2",
+    "row": 3,
+    "column": 3,
+    "x": 627,
+    "y": 627,
+    "w": 313,
+    "h": 313,
+    "visible_bounds_in_cell": [
+      91,
+      62,
+      221,
+      259
+    ]
+  },
+  {
+    "name": "direita-3",
+    "row": 3,
+    "column": 4,
+    "x": 940,
+    "y": 627,
+    "w": 314,
+    "h": 313,
+    "visible_bounds_in_cell": [
+      92,
+      62,
+      221,
+      259
+    ]
+  },
+  {
+    "name": "cima-0",
+    "row": 4,
+    "column": 1,
+    "x": 0,
+    "y": 940,
+    "w": 314,
+    "h": 314,
+    "visible_bounds_in_cell": [
+      94,
+      63,
+      219,
+      257
+    ]
+  },
+  {
+    "name": "cima-1",
+    "row": 4,
+    "column": 2,
+    "x": 314,
+    "y": 940,
+    "w": 313,
+    "h": 314,
+    "visible_bounds_in_cell": [
+      88,
+      63,
+      216,
+      263
+    ]
+  },
+  {
+    "name": "cima-2",
+    "row": 4,
+    "column": 3,
+    "x": 627,
+    "y": 940,
+    "w": 313,
+    "h": 314,
+    "visible_bounds_in_cell": [
+      95,
+      63,
+      221,
+      257
+    ]
+  },
+  {
+    "name": "cima-3",
+    "row": 4,
+    "column": 4,
+    "x": 940,
+    "y": 940,
+    "w": 314,
+    "h": 314,
+    "visible_bounds_in_cell": [
+      96,
+      63,
+      223,
+      263
+    ]
+  }
+]

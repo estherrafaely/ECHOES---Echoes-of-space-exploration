@@ -1,0 +1,60 @@
+{
+  "format": "echoes.animation-spec.v1",
+  "textureKey": "astronauta",
+  "atlas": "astronauta-caminhada.atlas.json",
+  "description": "Especificação de animações para a programadora; não é um arquivo JavaScript nem um importador automático de animações.",
+  "suggested_cell_display_size": {
+    "width": 48,
+    "height": 48
+  },
+  "animations": [
+    {
+      "key": "andar-baixo",
+      "frames": [
+        "baixo-0",
+        "baixo-1",
+        "baixo-2",
+        "baixo-3"
+      ],
+      "frameRate": 8,
+      "repeat": -1,
+      "idleFrame": "baixo-0"
+    },
+    {
+      "key": "andar-esquerda",
+      "frames": [
+        "esquerda-0",
+        "esquerda-1",
+        "esquerda-2",
+        "esquerda-3"
+      ],
+      "frameRate": 8,
+      "repeat": -1,
+      "idleFrame": "esquerda-0"
+    },
+    {
+      "key": "andar-direita",
+      "frames": [
+        "direita-0",
+        "direita-1",
+        "direita-2",
+        "direita-3"
+      ],
+      "frameRate": 8,
+      "repeat": -1,
+      "idleFrame": "direita-0"
+    },
+    {
+      "key": "andar-cima",
+      "frames": [
+        "cima-0",
+        "cima-1",
+        "cima-2",
+        "cima-3"
+      ],
+      "frameRate": 8,
+      "repeat": -1,
+      "idleFrame": "cima-0"
+    }
+  ]
+}
