@@ -1,20 +1,19 @@
+# ECHOES — Echoes of Space Exploration
 
-# ECHOES — Ecos da Exploração Espacial
+ECHOES is a 2D educational Pixel Art game developed to explore the history of space exploration and learn about scientific equipment left on the Moon and Mars during space missions.
 
-ECHOES é um jogo educativo 2D em Pixel Art desenvolvido para explorar a história da exploração espacial e conhecer equipamentos científicos deixados na Lua e em Marte durante missões espaciais.
+## About the Game
 
-## Sobre o jogo
+The player controls an astronaut who explores space environments, investigates equipment, and records discoveries about space missions.
 
-O jogador controla um astronauta que explora ambientes espaciais, investiga equipamentos e registra descobertas sobre as missões.
+During the expedition, the following locations and equipment are explored:
 
-Durante a expedição, são explorados:
+- **Moon:** Apollo Lunar Module - Eagle and ALSEP.
+- **Mars:** Spirit, Opportunity, and Ingenuity.
 
-- Lua: Apollo Lunar Module - Eagle e ALSEP.
-- Marte: Spirit, Opportunity e Ingenuity.
+After completing the explorations, the player can view a final report summarizing the discoveries made during the expedition.
 
-Ao concluir as explorações, o jogador pode visualizar um relatório final com as descobertas realizadas.
-
-## Tecnologias utilizadas
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -22,52 +21,55 @@ Ao concluir as explorações, o jogador pode visualizar um relatório final com 
 - Phaser 3
 - Vite
 
-## Como executar o projeto
+## How to Run the Project
 
-É necessário ter o Node.js instalado.
+Node.js must be installed.
 
-1. Clone este repositório:
+1. Clone this repository:
 
-   git clone COLE_A_URL_DO_REPOSITORIO_AQUI
+   ```bash
+   git clone PASTE_YOUR_REPOSITORY_URL_HERE
+   ```
 
-2. Entre na pasta do projeto:
+2. Navigate to the project folder:
 
+   ```bash
    cd echoes-game
+   ```
 
-3. Instale as dependências:
+3. Install the dependencies:
 
+   ```bash
    npm install
+   ```
 
-4. Inicie o servidor:
+4. Start the development server:
 
+   ```bash
    npm run dev
+   ```
 
-5. Abra no navegador o endereço informado pelo Vite.
+5. Open the address provided by Vite in your browser.
 
-## Controles
+## Controls
 
-- WASD ou setas: movimentar o astronauta.
-- E: investigar equipamentos próximos.
-- ESC: fechar o painel de informações.
-- M: seguir para Marte após concluir a exploração lunar.
-- R: abrir o relatório final após concluir Marte.
+- **WASD or Arrow Keys:** Move the astronaut.
+- **E:** Investigate nearby equipment.
+- **ESC:** Close the information panel.
+- **M:** Proceed to Mars after completing the lunar exploration.
+- **R:** Open the final report after completing the Mars exploration.
 
-## Fontes de pesquisa
+## Research Sources
 
-As informações científicas dos equipamentos são baseadas em materiais oficiais da NASA.
+The scientific information about the equipment is based on official NASA materials and mission documentation.
 
-- Apollo Lunar Module: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C
-- ALSEP: https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-099C
-- Mars Exploration Rovers: https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/
-- Ingenuity: https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/
+## Team
 
-## Equipe
+Developed by:
 
-Projeto desenvolvido por:
+- Esther Rafaely
+- Jezreel Christi
 
-- [Nome do integrante 1]
-- [Nome do integrante 2]
+## Project
 
-## Projeto
-
-Desenvolvido como parte do NASA Space Apps Challenge.
+Developed as part of the NASA Space Apps Challenge.
